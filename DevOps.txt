@@ -1,0 +1,26 @@
+DevOps
+DevOps=Development + Operations
+It's a culture + set of practices + tools that help:
+•	Developers (who write the code)
+•	Operations (who deploy/manage system)
+Work Together, instead of working in slides.
+Real time Example
+Imagine you’re building a mobile app like Swiggy.
+•	The developer writes code to add “trick My Order” feature.
+•	Without DevOps: Developer gives code to Ops team-they manually deploy -bugs happen-delays.
+•	With DevOps: Code is automatically tested and deployed-customers get updates faster and safely.
+DevOps Helps You:
+•	Release feature faster (like adding new payment methods in Zomato).
+•	Fix bugs quickly (like fixing logon issue in IRCTC).
+•	Automate repetitive tasks (like server restarts, database backups).
+	
+Plan	- Define what to build
+Develop	- write the code
+Build	- Compile code into deployable formate
+Test	- Check for bugs automatically
+Release	- Approve the build for deployment
+Deploy	- Push app to servers or app store
+Operate	- Keep app running, fix any issue
+Monitor	- Analyze performance and feedback
+
+
