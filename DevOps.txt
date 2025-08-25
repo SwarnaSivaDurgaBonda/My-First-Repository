@@ -13,11 +13,6 @@ DevOps Helps You:
 •	Release feature faster (like adding new payment methods in Zomato).
 •	Fix bugs quickly (like fixing logon issue in IRCTC).
 •	Automate repetitive tasks (like server restarts, database backups).
-
-GitHub Basics
-What is Git and GitHub?
--Git:Version Control System(local)
--GitHub: Online platform to store Git projects
 	
 Plan	- Define what to build
 Develop	- write the code
@@ -27,6 +22,13 @@ Release	- Approve the build for deployment
 Deploy	- Push app to servers or app store
 Operate	- Keep app running, fix any issue
 Monitor	- Analyze performance and feedback
+
+GitHub Basics
+What is Git and GitHub?
+-Git:Version Control System(local)
+-GitHub: Online platform to store Git projects
+	
+
 
 
 
